@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.anime-item:hover{
+  cursor: pointer;
+  color: #4C4CFF;
+  text-decoration: underline;
+}
