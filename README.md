@@ -22,7 +22,7 @@ creat de  Greg Daniels si Michael Schur.</br> Platforma este bazată pe o aplica
   <p> Metoda de HTTP folosita in cadrul proiectului este metoda GET/resource/:id, ce reprezinta o operatie de READ.</p>
   <p> In cazul API-ului folosit pentru logarea cu un cont google, a fost nevoie de obtinerea unor credentiale pentru accesul de tip OAuth, in urma caruia am primit un ID de client pentru folosirea acestor credentiale, aceesul de tip OAuth fiind restrictionat pentru utilizatorii din afara organizatiei.</p>
   
-
+ <img src = "https://user-images.githubusercontent.com/83892945/117584402-67de8d00-b115-11eb-9009-cd323f7d97e5.png" width = "300">
 
 
 
