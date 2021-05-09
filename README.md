@@ -18,7 +18,8 @@ creat de  Greg Daniels si Michael Schur.</br> Platforma este bazată pe o aplica
   Flux de date
   </h3>
   <p>Principalul exemplu de request din cadrul aceste aplicatii este cererea pe care o face utilizatorul prin introducerea cuvantului cheie, iar partea de response este dispunerea citatului ce corespunde cuvantului cheie.</p>
-  <p> Metoda de HTTP folosita in cadrul proiectului este metoda GET/resource/:id, ce reprezinta o operatie de READ.
+  <p> Metoda de HTTP folosita in cadrul proiectului este metoda GET/resource/:id, ce reprezinta o operatie de READ.</p>
+  <p> In cazul API-ului folosit pentru logarea cu un cont google, a fost nevoie de obtinerea unor credentiale pentru accesul de tip OAuth, in urma caruia am primit un ID de client pentru folosirea acestor credentiale, aceesul de tip OAuth fiind restrictionat pentru utilizatorii din afara organizatiei.</p>
   
   
 
