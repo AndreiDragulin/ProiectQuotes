@@ -18,12 +18,13 @@ creat de  Greg Daniels si Michael Schur.</br> Platforma este bazată pe o aplica
   Flux de date
   </h3>
   <p>Principalul exemplu de request din cadrul aceste aplicatii este cererea pe care o face utilizatorul prin introducerea cuvantului cheie, iar partea de response este dispunerea citatului ce corespunde cuvantului cheie.</p>
-  <img src = "https://user-images.githubusercontent.com/83892945/117584060-4a102880-b113-11eb-99f7-84c697a7aa3a.png" width = "300">
+  <img src = "https://user-images.githubusercontent.com/83892945/117584060-4a102880-b113-11eb-99f7-84c697a7aa3a.png" width = "500">
   <p> Metoda de HTTP folosita in cadrul proiectului este metoda GET/resource/:id, ce reprezinta o operatie de READ.</p>
   <p> In cazul API-ului folosit pentru logarea cu un cont google, a fost nevoie de obtinerea unor credentiale pentru accesul de tip OAuth, in urma caruia am primit un ID de client pentru folosirea acestor credentiale, aceesul de tip OAuth fiind restrictionat pentru utilizatorii din afara organizatiei.</p>
   
- <img src = "https://user-images.githubusercontent.com/83892945/117584402-67de8d00-b115-11eb-9009-cd323f7d97e5.png" width = "300">
- <img src = "https://user-images.githubusercontent.com/83892945/117584436-b12edc80-b115-11eb-8b5f-91786a1d62dc.png" width = "300">
+ <img src = "https://user-images.githubusercontent.com/83892945/117584661-e7b92700-b116-11eb-9c86-9b1bea419ad0.png" width = "700">
+ <img src = "https://user-images.githubusercontent.com/83892945/117584668-eb4cae00-b116-11eb-9d87-a5d14ae1587c.png" width = "700">
+ <img src = "https://user-images.githubusercontent.com/83892945/117584672-f1db2580-b116-11eb-9b46-4edf58870a9c.png" width = "700">
 
 
 
