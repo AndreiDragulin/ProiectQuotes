@@ -21,9 +21,11 @@ creat de  Greg Daniels si Michael Schur.</br> Platforma este bazată pe o aplica
   <img src = "https://user-images.githubusercontent.com/83892945/117584060-4a102880-b113-11eb-99f7-84c697a7aa3a.png" width = "500">
   <p> Metoda de HTTP folosita in cadrul proiectului este metoda GET/resource/:id, ce reprezinta o operatie de READ.</p>
   <p> In cazul API-ului folosit pentru logarea cu un cont google, a fost nevoie de obtinerea unor credentiale pentru accesul de tip OAuth, in urma caruia am primit un ID de client pentru folosirea acestor credentiale, aceesul de tip OAuth fiind restrictionat pentru utilizatorii din afara organizatiei.</p>
-  
+  Pagina de logare:
  <img src = "https://user-images.githubusercontent.com/83892945/117584661-e7b92700-b116-11eb-9c86-9b1bea419ad0.png" width = "700">
+ Pagina de selectare cont:
  <img src = "https://user-images.githubusercontent.com/83892945/117584668-eb4cae00-b116-11eb-9d87-a5d14ae1587c.png" width = "700">
+ Buton pentru iesirea din cont:
  <img src = "https://user-images.githubusercontent.com/83892945/117584672-f1db2580-b116-11eb-9b46-4edf58870a9c.png" width = "700">
 
 
